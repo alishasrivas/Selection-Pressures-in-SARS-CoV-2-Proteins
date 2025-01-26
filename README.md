@@ -1,4 +1,4 @@
-# Comprehensive Genomic Analysis of SARS-CoV-2 (Wuhan-Hu-1 Isolate)
+# Genomic Analysis of SARS-CoV-2 (Wuhan-Hu-1 Isolate)
 
 This repository contains the code, data, and analysis for a detailed genomic study of the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) isolate Wuhan-Hu-1. The project leverages various computational methods to extract meaningful insights from the reference genome ([NC_045512.2](https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2)).
 
